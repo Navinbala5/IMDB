@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\elam\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\elam\AndroidStudioProjects\IMDB\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_730b5c4f391aa27107921be933605603c9dcdadf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\elam\.android\build-cache\51c3fad83b60feacb22b86ff8df412f58f0d821f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\elam\AndroidStudioProjects\IMDB\app\build\intermediates\pre-dexed\debug\classes_83b4d8bec2059e64b277e6451e9b41e5b76ad1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\elam\.android\build-cache\fcf8920d1d8ac53308268b26741aa336192cd186\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\elam\AndroidStudioProjects\IMDB\app\build\intermediates\pre-dexed\debug\classes_38dada314431d213ab4d7f39a22aad1971188662.jar" />
+    </item>
+
+</items>
